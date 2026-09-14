@@ -1,0 +1,56 @@
+body {
+    background-color: #C7C6B9;
+    font-family: Arial, sans-serif;
+    color: #1A224B;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 30px;
+}
+
+main {
+    padding: 30px;
+    max-width: 900px;
+    margin: 30px auto;
+}
+
+h1 {
+    color: #1A224B;
+    font-family: Georgia, serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+h2 {
+    color: #354282;
+    font-family: Georgia, serif;
+    margin-top: 25px;
+}
+
+p {
+    color: #1A224B;
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+ul {
+    color: #1A224B;
+    font-family: "Trebuchet MS", sans-serif;
+    line-height: 1.8;
+}
+
+a {
+    color: #354282;
+}
+
+a:hover {
+    color: #6C77A2;
+}
+
+section {
+    margin-bottom: 30px;
+}
